@@ -1,1 +1,14 @@
+Flask
 MarkupSafe
+wheel
+trustme
+pytest-httpbin
+pytest-cov
+pytest
+.[socks]
+PyGithub
+lxml
+bs4
+sphinx-panels
+sphinx-copybutton
+sphinx_copybutton
